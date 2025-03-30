@@ -42,3 +42,17 @@ Write and format content using the TinyMCE editor.
 Upload images for blog posts.
 
 Edit or delete your own blogs with secure access control.
+
+
+Login page : 
+![screenshot](./public/assets/react-1.png)
+
+Add post : 
+![screenshot](./public/assets/react-addpost.png)
+
+Home : 
+![screenshot](./public/assets/react-home.png)
+
+
+Sign Up : 
+![screenshot](./public/assets/react-signup.png)
